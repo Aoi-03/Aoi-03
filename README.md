@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aoi
 - 👀 I’m interested in computer and books
 - 🌱 I’m currently learning B-TECH on ECE
-- 💞️ I’m looking to collaborate on demo program developments 
+- 💞️ I’m looking to collaborate on program developments 
 - 📫 How to reach me (Use my X: @Abhi_Aoi)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
