@@ -11,8 +11,6 @@ Hi, I’m Aoi.<br>I’m interested in computer and books<br>I’m currently lear
 ![](https://nirzak-streak-stats.vercel.app/?user=Aoi-03&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aoi-03&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
