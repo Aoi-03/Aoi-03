@@ -1,5 +1,5 @@
-# About Me:
-Hi, I’m Aoi.<br>I’m interested in computer and books<br>I’m currently learning B-TECH on ECE.<br>I’m looking for a job and a happy life.<br>How to reach me (Use my X: @Abhi_Aoi)<br>Pronouns: he/him
+w# About Me:
+Hi, I’m Aoi.<br>I’m interested in computer and books.<br>I’m currently learning B-TECH on ECE.<br>I’m looking for a job and a happy life.<br>How to reach me (Use my X: @Abhi_Aoi)<br>Pronouns: he/him
 
 
 ## Socials:
