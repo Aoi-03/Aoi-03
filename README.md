@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Aoi-03">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&multiline=true&width=700&height=30&lines=SIH+(Smart+India+Hackathon)+Finalist+|+A+Writer,+Artist,+and+Developer;Manga+Aesthetics+%26+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&multiline=true&width=700&height=30&lines=SIH+(Smart+India+Hackathon)+Finalist+|+A+Writer,+Artist,+and+Developer/...;Manga+Aesthetics+%26+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 ```
 <div align="center">
   <a href="https://github.com/Aoi-03">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=30&lines=My+Contributions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=30&lines=My+Contributions/..." alt="Typing SVG" />
   </a>
 </div>
 <!-- <br clear="right"/> -->
