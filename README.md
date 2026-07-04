@@ -32,6 +32,28 @@ Pronouns: he/him Kolkata, India
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" />
 </div>
 
+
+## About Me:
+
+<img align="right" width="360" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif)" />
+
+
+  ┌──────────────────────────────┐
+  │   ~ whoami                   │
+  └──────────────────────────────┘
+
+  name      →  Aoi
+  location  →  Kolkata, India 🌙
+  status    →  learning B-TECH in ECE
+  timezone  →  awake when I shouldn't be
+
+  currently →  building Project Neumann (16-bit CPU)
+               & Camofleur (EDA Tool)
+
+  interests →  [ computer architecture, books,
+                 manga aesthetics, late nights ]
+
+
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aoi_v.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1KjLeYbizr/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijitkumar6217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-kumar-9238b4341/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/East-Ask-9479) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhi_Aoi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Lunas_Trails) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:child.abhijit@gmail.com) 
 
