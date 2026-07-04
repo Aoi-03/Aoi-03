@@ -26,6 +26,12 @@ How to reach me (Use my X: @Abhi_Aoi)
   currently →  building Project Ifa
   interests →  Writing, Sketching, Gaming etc.
 ```
+<div align="center">
+  <a href="https://github.com/Aoi-03">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=50&lines=My+Contributions;Manga+Aesthetics+%26+Code" alt="Typing SVG" />
+  </a>
+</div>
+
 <br clear="right"/>
 <div align="center">  
   <picture>
