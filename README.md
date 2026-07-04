@@ -42,16 +42,15 @@ Pronouns: he/him Kolkata, India
   ┌──────────────────────────────┐
   │   ~ Who am I                 │
   └──────────────────────────────┘
-Hi, I’m Eyepatch.<br>
-I’m currently a B-TECH Engineering student on ECE.<br>
+Hi, I’m Eyepatch.
+I’m currently a B-TECH Engineering student on ECE.
 Looking for a job and a happy life. Writing, sketching, gaming, reading all are my interests.
-How to reach me (Use my X: @Abhi_Aoi)<br>
+How to reach me (Use my X: @Abhi_Aoi)
   location  →  Kolkata, India 
   timezone  →  awake when I shouldn't be
 
   currently →  building Project Ifa
-  interests →  [ computer architecture, books,
-                 manga aesthetics, late nights ]
+  interests →  Writing, Sketching, Gaming etc.
 ```
 
 ## Socials:
