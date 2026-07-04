@@ -1,3 +1,77 @@
+<!-- 1. WAVING HEADER (Top of page) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Aoi-03&fontSize=70&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Custom%20Architecture%20&%20Code&descAlignY=60&descSize=18&descColor=7c3aed" />
+</div>
+
+<!-- 2. TYPING TEXT (Right below the header) -->
+<div align="center">
+  <a href="https://github.com/Aoi-03">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Project+Neumann+Architect;Building+Custom+EDA+Tools;Manga+Aesthetics+%26+Code" alt="Typing SVG" />
+  </a>
+</div>
+
+<br />
+
+<!-- 3. RIGHT-ALIGNED GIF (Floats on the right side of the screen) -->
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6eXBuNmM4bGkxcDJsaml3aTR4eTVjMm1hdzlzZHdsMGh3djkzZSZlcD12MV9pbnRlcm5hbGdfaWZfaW1hZ2VzX2dpZnMmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<!-- 4. ABOUT ME TEXT (Sits to the left of the GIF) -->
+### 👨‍💻 About Me
+* 🎓 ECE Student & Hardware Developer
+* ⚙️ Currently building **Project Neumann** (16-bit Custom CPU)
+* 🎨 Developing **Camofleur** (EDA Tool)
+* 📍 Kolkata, India
+
+<!-- This clear tag is crucial! It stops the text from wrapping under the GIF incorrectly -->
+<br clear="right"/>
+
+---
+
+<!-- 5. SNAKE ANIMATION (Your fixed contribution graph) -->
+<div align="center">
+  ### 🐍 Contribution Grid Snake
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<!-- 6. WAVING FOOTER (Very bottom of page) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## About Me:
 Hi, I’m Aoi<br>I’m interested in computer and books.<br>I’m currently learning B-TECH on ECE.<br>I’m looking for a job and a happy life.<br>How to reach me (Use my X: @Abhi_Aoi)<br>Pronouns: he/him
 
