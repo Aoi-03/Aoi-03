@@ -38,31 +38,37 @@ Pronouns: he/him Kolkata, India
 
 ## About Me:
 
-<img align="right" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif" />
+<table>
+  <tr>
+    <!-- LEFT COLUMN: Text and Snake -->
+    <td width="55%" valign="top">
+      Hi, I’m Aoi<br>
+      I’m interested in computer and books.<br>
+      I’m currently learning B-TECH on ECE.<br>
+      I’m looking for a job and a happy life.<br>
+      How to reach me (Use my X: @Abhi_Aoi)<br>
+      Pronouns: he/him Kolkata, India
+      <br><br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" width="100%" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake.svg">
+      </picture>
+    </td>
 
-Hi, I’m Aoi<br>
-I’m interested in computer and books.<br>
-I’m currently learning B-TECH on ECE.<br>
-I’m looking for a job and a happy life.<br>
-How to reach me (Use my X: @Abhi_Aoi)<br>
-Pronouns: he/him Kolkata, India
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" width="100%" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br clear="right"/>
+    <!-- RIGHT COLUMN: GIF -->
+    <td width="45%" valign="top" align="center">
+      <br>
+      <img width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" />
 </div>
-
 
 
 ## Socials:
