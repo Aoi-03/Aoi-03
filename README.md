@@ -20,12 +20,8 @@ How to reach me (Use my X: @Abhi_Aoi)<br>
 Pronouns: he/him Kolkata, India
 
 <br clear="right"/>
-
 ---
-
-<div align="center">
-  ### My Contributions
-  
+<div align="center">  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake.svg">
