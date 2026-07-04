@@ -1,3 +1,58 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Eyepatch&fontFamily=Trebuchet%20MS&fontSize=70&fontColor=c084fc&animation=fadeIn&fontAlignY=32&desc=A+Passionate+Fullstack+Developer&descAlignY=68&descSize=18&descColor=7c3aed" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Aoi-03">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Project+Neumann+Architect;Building+Custom+EDA+Tools;Manga+Aesthetics+%26+Code" alt="Typing SVG" />
+  </a>
+</div>
+
+## About Me:
+
+<img align="right" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif" />
+
+Hi, I’m Aoi<br>
+I’m interested in computer and books.<br>
+I’m currently learning B-TECH on ECE.<br>
+I’m looking for a job and a happy life.<br>
+How to reach me (Use my X: @Abhi_Aoi)<br>
+Pronouns: he/him Kolkata, India
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+  ### My Contributions
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- 1. WAVING HEADER (Top of page) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Eyepatch&fontFamily=Trebuchet%20MS&fontSize=70&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=A+Passionate+Fullstack+Developer&%20Code&descAlignY=60&descSize=18&descColor=7c3aed" />
