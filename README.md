@@ -18,7 +18,7 @@
   └──────────────────────────────┘
 Hi, I’m Eyepatch.
 I’m currently a B-TECH Engineering student on ECE.
-Looking for a job and a happy life. Writing, sketching, gaming, reading all are my interests.
+Looking for a job and a happy life.
 How to reach me (Use my X: @Abhi_Aoi)
   location  →  Kolkata, India 
   timezone  →  awake when I shouldn't be
