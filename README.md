@@ -9,9 +9,7 @@
 </div>
 
 ## About Me:
-
 <img align="right" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif" />
-
 ```text
 ┌──────────────────────────────┐
 │   ~ Who am I                 │
@@ -22,7 +20,6 @@ Looking for a job and a happy life.
 How to reach me (Use my X: @Abhi_Aoi)
   location  →  Kolkata, India 
   timezone  →  awake when I shouldn't be
-
   currently →  building Project Ifa
   interests →  Writing, Sketching, Gaming etc.
 ```
