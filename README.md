@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Aoi-03&fontSize=70&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Custom%20Architecture%20&%20Code&descAlignY=60&descSize=18&descColor=7c3aed" />
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Aoi-03&customFont=Oswald&fontSize=70&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Custom%20Architecture%20&%20Code&descAlignY=60&descSize=18&descColor=7c3aed" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Aoi-03&customFont=Bilbo+Swash+Caps&fontSize=70&fontColor=c084fc&animation=fadeIn&fontAlignY=38&desc=Custom%20Architecture%20&%20Code&descAlignY=60&descSize=18&descColor=7c3aed" />
 </div>
 <!-- 2. TYPING TEXT (Right below the header) -->
 <div align="center">
