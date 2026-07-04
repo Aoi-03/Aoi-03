@@ -31,7 +31,7 @@ How to reach me (Use my X: @Abhi_Aoi)
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=30&lines=My+Contributions" alt="Typing SVG" />
   </a>
 </div>
-<br clear="right"/>
+<!-- <br clear="right"/> -->
 <div align="center">  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake-dark.svg">
