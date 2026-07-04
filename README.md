@@ -55,7 +55,6 @@ Pronouns: he/him Kolkata, India
         <img alt="github contribution grid snake animation" width="100%" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/github-contribution-grid-snake.svg">
       </picture>
     </td>
-
     <!-- RIGHT COLUMN: GIF -->
     <td width="45%" valign="top" align="center">
       <br>
