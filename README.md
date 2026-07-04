@@ -1,6 +1,8 @@
 ## About Me:
 Hi, I’m Aoi<br>I’m interested in computer and books.<br>I’m currently learning B-TECH on ECE.<br>I’m looking for a job and a happy life.<br>How to reach me (Use my X: @Abhi_Aoi)<br>Pronouns: he/him
 
+![GitHub Contribution Snake](https://githubusercontent.com)
+
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aoi_v.) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1KjLeYbizr/)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijitkumar6217) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-kumar-9238b4341/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/East-Ask-9479) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhi_Aoi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Lunas_Trails) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:child.abhijit@gmail.com) 
