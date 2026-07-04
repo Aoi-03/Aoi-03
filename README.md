@@ -40,17 +40,16 @@ Pronouns: he/him Kolkata, India
 
 ```zsh
   ┌──────────────────────────────┐
-  │   ~ whoami                   │
+  │   ~ Who am I                 │
   └──────────────────────────────┘
-
-  name      →  Aoi
-  location  →  Kolkata, India 🌙
-  status    →  learning B-TECH in ECE
+Hi, I’m Eyepatch.<br>
+I’m currently a B-TECH Engineering student on ECE.<br>
+Looking for a job and a happy life. Writing, sketching, gaming, reading all are my interests.
+How to reach me (Use my X: @Abhi_Aoi)<br>
+  location  →  Kolkata, India 
   timezone  →  awake when I shouldn't be
 
-  currently →  building Project Neumann (16-bit CPU)
-               & Camofleur (EDA Tool)
-
+  currently →  building Project Ifa
   interests →  [ computer architecture, books,
                  manga aesthetics, late nights ]
 ```
