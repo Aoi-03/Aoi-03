@@ -12,14 +12,17 @@
 <br />
 
 <!-- 3. RIGHT-ALIGNED GIF (Floats on the right side of the screen) -->
-<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6eXBuNmM4bGkxcDJsaml3aTR4eTVjMm1hdzlzZHdsMGh3djkzZSZlcD12MV9pbnRlcm5hbGdfaWZfaW1hZ2VzX2dpZnMmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="360" src="https://tenor.com/en-IN/view/code-coding-computer-gif-19684211" />
 
 <!-- 4. ABOUT ME TEXT (Sits to the left of the GIF) -->
 ## About Me:
 Hi, I’m Aoi<br>I’m interested in computer and books.<br>I’m currently learning B-TECH on ECE.<br>I’m looking for a job and a happy life.<br>How to reach me (Use my X: @Abhi_Aoi)<br>Pronouns: he/him
 Kolkata, India
 
-<!-- This clear tag is crucial! It stops the text from wrapping under the GIF incorrectly -->
+<!-- 
+"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6eXBuNmM4bGkxcDJsaml3aTR4eTVjMm1hdzlzZHdsMGh3djkzZSZlcD12MV9pbnRlcm5hbGdfaWZfaW1hZ2VzX2dpZnMmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+
+This clear tag is crucial! It stops the text from wrapping under the GIF incorrectly -->
 <br clear="right"/>
 
 ---
