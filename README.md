@@ -1,12 +1,10 @@
 ## About Me:
 Hi, I’m Aoi<br>I’m interested in computer and books.<br>I’m currently learning B-TECH on ECE.<br>I’m looking for a job and a happy life.<br>How to reach me (Use my X: @Abhi_Aoi)<br>Pronouns: he/him
 
-![GitHub Contribution Snake](https://githubusercontent.com)
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com">
-  <img alt="GitHub Contribution Snake" src="https://github.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/output/dist/github-contribution-grid-snake.svg">
 </picture>
 
 ## Socials:
