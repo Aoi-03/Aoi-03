@@ -9,7 +9,7 @@
 </div>
 
 
-<div align="left">
+<div align="right">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="60" />
 </div>
 
