@@ -12,7 +12,7 @@
 <br />
 
 <!-- 3. RIGHT-ALIGNED GIF (Floats on the right side of the screen) -->
-<img align="right" width="360" src="https://tenor.com/en-IN/view/code-coding-computer-gif-19684211" />
+<img align="right" width="360" src="[https://tenor.com/en-IN/view/code-coding-computer-gif-19684211](https://media1.tenor.com/m/-buzIaq-QeoAAAAd/code-coding.gif)" />
 
 <!-- 4. ABOUT ME TEXT (Sits to the left of the GIF) -->
 ## About Me:
