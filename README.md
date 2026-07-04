@@ -10,6 +10,10 @@
 
 
 ## About Me:
+<div align="right">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="60" />
+</div>
+---
 
 <img align="right" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif" />
 
@@ -30,9 +34,7 @@ How to reach me (Use my X: @Abhi_Aoi)
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=9333EA&center=true&vCenter=true&multiline=true&width=600&height=30&lines=My+Contributions/..." alt="Typing SVG" />
   </a>
 </div>
-<div align="right">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="60" />
-</div>
+
 <!-- <br clear="right"/> -->
 <div align="center">  
   <picture>
