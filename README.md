@@ -31,7 +31,7 @@ How to reach me (Use my X: @Abhi_Aoi)
   </a>
 </div>
 <div align="right">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="60" />
 </div>
 <!-- <br clear="right"/> -->
 <div align="center">  
