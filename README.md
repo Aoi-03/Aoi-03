@@ -73,8 +73,6 @@ How to reach me (Use my X: @Abhi_Aoi)
 ![Docker](https://img.shields.io/badge/Docker-e6e6fa.svg?style=flat-square&logo=docker&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat-square&logo=Arduino&logoColor=black)
 
-<br/>
-
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
