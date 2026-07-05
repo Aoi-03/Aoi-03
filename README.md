@@ -51,10 +51,21 @@ How to reach me (Use my X: @Abhi_Aoi)
 
 <!-- <Github status & Streaks/> -->
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Aoi-03&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Aoi-03&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <!-- LEFT COLUMN: Tall Stats Card -->
+      <td width="50%" valign="top" align="center">
+        <img src="https://github-stats-extended.vercel.app/api?username=Aoi-03&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="GitHub Stats" />
+      </td>
+      <!-- RIGHT COLUMN: Stacked Languages & Streak Cards -->
+      <td width="50%" valign="top" align="center">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Aoi-03&layout=compact&langs_count=10&theme=midnight-purple&card_width=495" alt="Top Languages" />
+        <br/>
+        <img src="https://streak-stats.demolab.com/?user=Aoi-03&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 <!-- <Socials/> -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -111,6 +122,3 @@ How to reach me (Use my X: @Abhi_Aoi)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" />
 </div>
-
-
-
