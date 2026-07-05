@@ -102,6 +102,9 @@ How to reach me (Use my X: @Abhi_Aoi)
   </tr>
 </table>
 
+<!--Wakatime-->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&langs_count=6&display_format=percent&theme=midnight-purple)](https://wakatime.com/@alan)
+
 ## Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="100" />
