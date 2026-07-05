@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Eyepatch&fontFamily=Trebuchet%20MS&fontSize=70&fontColor=c084fc&animation=fadeIn&fontAlignY=32&desc=Fullstack+Developer+|+UI+Designer&descAlignY=60&descSize=18&descColor=7c3aed" />
 </div>
+<!-- <Gif0/> -->
 <img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki0.gif" width="90" />
 <div align="center">
   <a href="https://github.com/Aoi-03">
@@ -40,6 +41,13 @@ How to reach me (Use my X: @Abhi_Aoi)
 </div>
 
 <img align="right" width="360" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif)" />
+
+<!-- <Popularity/> -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-4b0082?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/🚀_Projects_Shipped-8%2B-9333ea?style=for-the-badge" alt="Projects" />
+  <img src="https://komarev.com/ghpvc/?username=Aoi-03&label=Profile%20Views&color=1a0533&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <!-- <Streaks/> -->
 <img src="https://streak-stats.demolab.com/?user=Aoi-03&theme=midnight-purple&hide_border=false" />
@@ -99,4 +107,11 @@ How to reach me (Use my X: @Abhi_Aoi)
 <img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="100" />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" />
+</div>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-0891b2?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/_Projects_Shipped-8%2B-0891b2?style=for-the-badge" alt="Projects" />
+  <img src="https://komarev.com/ghpvc/?username=Aoi-03&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
 </div>
