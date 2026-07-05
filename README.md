@@ -76,11 +76,12 @@ How to reach me (Use my X: @Abhi_Aoi)
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aoi-03&theme=shadow_green&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
 
+![](https://github-readme-stats.vercel.app/api?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Aoi-03&theme=shadow_green&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 <img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="90" />
 
 
