@@ -75,9 +75,13 @@ How to reach me (Use my X: @Abhi_Aoi)
 
 <div align="center">
 
+<br/>
+
 ![](https://github-readme-stats.vercel.app/api?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Aoi-03&theme=shadow_green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="90" />
 
 </div>
 <img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="90" />
