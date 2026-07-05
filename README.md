@@ -45,7 +45,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 <!-- <Popularity/> -->
 <div align="center">
   <img src="https://img.shields.io/badge/Experience-2%2B_Years-4b0082?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/🚀_Projects_Shipped-8%2B-9333ea?style=for-the-badge" alt="Projects" />
+  <img src="https://img.shields.io/badge/_Projects_Shipped-8%2B-9333ea?style=for-the-badge" alt="Projects" />
   <img src="https://komarev.com/ghpvc/?username=Aoi-03&label=Profile%20Views&color=1a0533&style=for-the-badge" alt="Profile Views" />
 </div>
 
