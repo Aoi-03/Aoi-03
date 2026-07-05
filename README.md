@@ -23,7 +23,7 @@ Looking for a job and a happy life.
 How to reach me (Use my X: @Abhi_Aoi)
   timezone  →  awake when I shouldn't be
   currently →  building Project Ifa
-  interests →  Writing, Sketching, Gaming etc.
+  interests →  Writing, Sketching, Gaming etc...
 ```
 <div align="center">
   <a href="https://github.com/Aoi-03">
