@@ -73,19 +73,17 @@ How to reach me (Use my X: @Abhi_Aoi)
 ![Docker](https://img.shields.io/badge/Docker-e6e6fa.svg?style=flat-square&logo=docker&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat-square&logo=Arduino&logoColor=black)
 
-<br/>
-
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aoi-03&theme=shadow_green&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
-
-<img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="90" />
+-->
 
 ## Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="90" />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" />
 </div>
