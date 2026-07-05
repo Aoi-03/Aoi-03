@@ -97,6 +97,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 </div>
 -->
 
+<img src="https://streak-stats.demolab.com/?user=Aoi-03&theme=shadow_green&hide_border=false" />
 
 ## Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
