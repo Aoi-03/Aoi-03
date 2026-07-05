@@ -84,7 +84,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 
 <h2>Discord Activity:</h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1101336432599113738?bg=1a0533&animated=true&showDisplayName=true&idleMessage=Awake%20when%20I%20shouldn't%20be...)](https://discord.com/users/1101336432599113738)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1101336432599113738?bg=1a0533&animated=true&showDisplayName=true&idleMessage=Just%20AFK%20ngl%20to%20u...)](https://discord.com/users/1101336432599113738)
     </td>
   </tr>
 </table>
