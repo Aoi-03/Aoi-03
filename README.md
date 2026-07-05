@@ -53,8 +53,6 @@ How to reach me (Use my X: @Abhi_Aoi)
 <img src="https://streak-stats.demolab.com/?user=Aoi-03&theme=midnight-purple&hide_border=false" />
 
 <!-- <Socials/> -->
-
-<!-- <Socials/> -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="65%" valign="top">
@@ -92,9 +90,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 ![Docker](https://img.shields.io/badge/Docker-e6e6fa.svg?style=flat-square&logo=docker&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat-square&logo=Arduino&logoColor=black)
     </td>
-    <td width="35%" valign="top" align="center">
-
-
+    <td width="35%" valign="top" align="Left">
 <h2>Discord Activity:</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1101336432599113738?bg=1a0533&animated=true&showDisplayName=true&idleMessage=Just%20AFK%20ngl%20to%20u...)](https://discord.com/users/1101336432599113738)
