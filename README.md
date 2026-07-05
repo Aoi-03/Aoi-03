@@ -81,9 +81,9 @@ How to reach me (Use my X: @Abhi_Aoi)
 </div>
 -->
 
-<div align="center">
+
   [![Discord Presence](https://lanyard.cnrad.dev/api/1101336432599113738?bg=1a0533&animated=true&showDisplayName=true&idleMessage=Awake%20when%20I%20shouldn't%20be...)](https://discord.com/users/1101336432599113738)
-</div>
+
 
 ## Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
