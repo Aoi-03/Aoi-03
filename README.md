@@ -41,6 +41,11 @@ How to reach me (Use my X: @Abhi_Aoi)
 
 <img align="right" width="360" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif)" />
 
+<!-- <Streaks/> -->
+<img src="https://streak-stats.demolab.com/?user=Aoi-03&theme=midnight-purple&hide_border=false" />
+
+<!-- <Socials/> -->
+
 <!-- <Socials/> -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -88,16 +93,6 @@ How to reach me (Use my X: @Abhi_Aoi)
     </td>
   </tr>
 </table>
-
-<!-- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aoi-03&theme=shadow_green&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
--->
-
-<img src="https://streak-stats.demolab.com/?user=Aoi-03&theme=midnight-purple&hide_border=false" />
 
 ## Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
