@@ -108,10 +108,3 @@ How to reach me (Use my X: @Abhi_Aoi)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" />
 </div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B_Years-0891b2?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/_Projects_Shipped-8%2B-0891b2?style=for-the-badge" alt="Projects" />
-  <img src="https://komarev.com/ghpvc/?username=Aoi-03&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile Views" />
-</div>
