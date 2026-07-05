@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Eyepatch&fontFamily=Trebuchet%20MS&fontSize=70&fontColor=c084fc&animation=fadeIn&fontAlignY=32&desc=A+Passionate+Fullstack+Developer&descAlignY=60&descSize=18&descColor=7c3aed" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:2d1b69&height=200&section=header&text=Eyepatch&fontFamily=Trebuchet%20MS&fontSize=70&fontColor=c084fc&animation=fadeIn&fontAlignY=32&desc=Fullstack+Developer+|+UI+Designer&descAlignY=60&descSize=18&descColor=7c3aed" />
 </div>
 <img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki0.gif" width="90" />
 <div align="center">
