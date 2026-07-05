@@ -73,21 +73,15 @@ How to reach me (Use my X: @Abhi_Aoi)
 ![Docker](https://img.shields.io/badge/Docker-e6e6fa.svg?style=flat-square&logo=docker&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat-square&logo=Arduino&logoColor=black)
 
-<div align="center">
-
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Aoi-03&theme=shadow_green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="90" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aoi-03&theme=shadow_green&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoi-03&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
+
 <img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="90" />
-
-
-
 
 ## Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
