@@ -61,7 +61,7 @@ How to reach me (Use my X: @Abhi_Aoi)
       <td width="50%" valign="top" align="center">
         <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Aoi-03&layout=compact&langs_count=10&theme=midnight-purple&card_width=495" alt="Top Languages" />
         <br/>
-        <img src="https://streak-stats.demolab.com/?user=Aoi-03&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+        <img src="./profile/streak.svg" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
