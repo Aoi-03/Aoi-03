@@ -11,7 +11,8 @@
 
 ## About Me:
 
-<img align="right" width="360" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif" />
+<img align="right" width="360" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki3.gif" />
+<!--"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG8zazA0aGpyb3Rra3UxdDNyNjNkMTJobDgzY3g0Y21tbTV3YmNzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL3oE2qrNIDQVgI/giphy.gif"-->
 
 ```text
 ┌──────────────────────────────┐
