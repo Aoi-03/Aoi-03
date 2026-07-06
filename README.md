@@ -118,7 +118,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 
 ## Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="100" />
+<img align="left" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki1.gif" width="100" />
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b69,50:1a0533,100:0d0d0d&height=120&section=footer" />
 </div>
