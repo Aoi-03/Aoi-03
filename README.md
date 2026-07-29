@@ -44,8 +44,8 @@ How to reach me (Use my X: @Abhi_Aoi)
 
 <!-- <Popularity/> -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B_Years-4b0082?style=for-the-badge" alt="Experience" />
-  <img src="https://img.shields.io/badge/_Projects_Shipped-8%2B-9333ea?style=for-the-badge" alt="Projects" />
+  <img src="https://img.shields.io/badge/Experience-8%2B_Years-4b0082?style=for-the-badge" alt="Experience" />
+  <img src="https://img.shields.io/badge/_Projects_Shipped-22%2B-9333ea?style=for-the-badge" alt="Projects" />
   <img src="https://komarev.com/ghpvc/?username=Aoi-03&label=Profile%20Views&color=1a0533&style=for-the-badge" alt="Profile Views" />
 </div>
 
@@ -170,12 +170,11 @@ __
 </table>
 
 <!-- This completely breaks out of the row layout -->
-<br clear="both"/>
 <div align="left">
-  <a href="https://ayakashi.cc/" target="_blank" style="text-decoration: none; color: inherit;">
-    <h2>Checkout our Website:</h2>
-    <img align="center" width="100%" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/ayakashi-web.gif" />
-  </a>
+  <h2>Checkout our Website:</h2>
+    <a href="https://ayakashi.cc">
+      <img align="center" width="100%" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/ayakashi-web.gif" />
+    </a>
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
