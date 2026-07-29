@@ -145,7 +145,7 @@ How to reach me (Use my X: @Abhi_Aoi)
           <td width="80%" valign="top" style="border: none;"> 
             <img src="assets/crest-mark.svg" width="20"/> XEN-LABS <br/> 
             <img src="assets/brush-underline.svg" width="76"/><br/> 
-            A two-person studio building anime-flavore <br/> bot & web experiences, economy systems, <br/> card-collecting mechanics, live companion chat. <br/> Everything currently orbits Ayakashi. <br/> 
+            An organization building bot & web <br/> experiences, economy systems, card-collecting <br/> mechanics, live companion chat. <br/> Everything currently orbits Ayakashi. <br/> 
             <!-- Fixed: Using pure HTML link for perfect compatibility inside tables -->
             <sub><a href="https://github.com/xen-labs"><code>@xen-labs</code></a> · Kolkata, India</sub> 
           </td> 
