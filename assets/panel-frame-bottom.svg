@@ -1,0 +1,46 @@
+<svg width="730" height="44" viewBox="0 0 730 44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="frameGoldBottom" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8c6d3f" stop-opacity="0"/>
+      <stop offset="8%" stop-color="#d4af6a" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#f0d9a8"/>
+      <stop offset="92%" stop-color="#d4af6a" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#8c6d3f" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- two wings sweeping outward + upward from center, mirrors panel-frame-top vertically -->
+  <path d="M 365,18 Q 270,18 220,26 Q 150,36 20,31"
+        fill="none" stroke="url(#frameGoldBottom)" stroke-width="2" stroke-linecap="round"/>
+  <path d="M 365,18 Q 460,18 510,26 Q 580,36 710,31"
+        fill="none" stroke="url(#frameGoldBottom)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- faint inner echo -->
+  <path d="M 365,11 Q 285,11 240,18 Q 180,26 60,23"
+        fill="none" stroke="#8c6d3f" stroke-width="1" opacity="0.4" stroke-linecap="round"/>
+  <path d="M 365,11 Q 445,11 490,18 Q 550,26 670,23"
+        fill="none" stroke="#8c6d3f" stroke-width="1" opacity="0.4" stroke-linecap="round"/>
+
+  <!-- center seal, anchored lower so it reads as the "close" point -->
+  <circle cx="365" cy="29" r="8.5" fill="#0a0806" stroke="url(#frameGoldBottom)" stroke-width="2"/>
+  <circle cx="365" cy="29" r="2.6" fill="#6b1010"/>
+  <circle cx="365" cy="29" r="0.9" fill="#e8524a"/>
+
+  <!-- stars at each wingtip, now at bottom corners -->
+  <path d="M 20,28.36 C 20.32,31.36 22.32,33.36 25.32,33.68 C 22.32,34 20.32,36 20,39 C 19.68,36 17.68,34 14.68,33.68 C 17.68,33.36 19.68,31.36 20,28.36 Z"
+        fill="url(#frameGoldBottom)" opacity="0.85"/>
+  <path d="M 710,28.36 C 710.32,31.36 712.32,33.36 715.32,33.68 C 712.32,34 710.32,36 710,39 C 709.68,36 707.68,34 704.68,33.68 C 707.68,33.36 709.68,31.36 710,28.36 Z"
+        fill="url(#frameGoldBottom)" opacity="0.85"/>
+
+  <!-- secondary stars, mid-wing -->
+  <path d="M 150,33 C 150.24,35.3 151.7,36.76 154,37 C 151.7,37.24 150.24,38.7 150,41 C 149.76,38.7 148.3,37.24 146,37 C 148.3,36.76 149.76,35.3 150,33 Z"
+        fill="url(#frameGoldBottom)" opacity="0.7"/>
+  <path d="M 580,33 C 580.24,35.3 581.7,36.76 584,37 C 581.7,37.24 580.24,38.7 580,41 C 579.76,38.7 578.3,37.24 576,37 C 578.3,36.76 579.76,35.3 580,33 Z"
+        fill="url(#frameGoldBottom)" opacity="0.7"/>
+
+  <!-- tiny dot stars along each wing -->
+  <circle cx="90" cy="34" r="1.4" fill="#d4af6a" opacity="0.55"/>
+  <circle cx="230" cy="28" r="1.2" fill="#d4af6a" opacity="0.5"/>
+  <circle cx="500" cy="28" r="1.2" fill="#d4af6a" opacity="0.5"/>
+  <circle cx="640" cy="34" r="1.4" fill="#d4af6a" opacity="0.55"/>
+</svg>

@@ -1,0 +1,32 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgFade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#120d08"/>
+      <stop offset="100%" stop-color="#0a0806"/>
+    </linearGradient>
+    <linearGradient id="textGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b8892e"/>
+      <stop offset="50%" stop-color="#f0d9a8"/>
+      <stop offset="100%" stop-color="#b8892e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="200" fill="url(#bgFade)"/>
+
+  <!-- single restrained brushstroke, well below the text, thin and dry -->
+  <path d="M 60,150 C 220,138 340,158 500,144 C 620,134 700,150 760,142"
+        fill="none" stroke="#4a3618" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+
+  <!-- title -->
+  <text x="400" y="92" text-anchor="middle" font-family="'Georgia',serif" font-size="54"
+        font-weight="700" fill="url(#textGold)" letter-spacing="6">XENKAII</text>
+
+  <!-- subtitle -->
+  <text x="400" y="126" text-anchor="middle" font-family="'Courier New',monospace" font-size="14"
+        fill="#8c6d3f" letter-spacing="2">SYSTEMS ARCHITECT  //  BUILDING ASTRAL</text>
+
+  <!-- seal mark, bottom right of banner -->
+  <rect x="742" y="158" width="26" height="26" fill="none" stroke="#6b1010" stroke-width="1.5"/>
+  <text x="755" y="177" text-anchor="middle" font-family="serif" font-size="15" fill="#6b1010">星</text>
+</svg>
+

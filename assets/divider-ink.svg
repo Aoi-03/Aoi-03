@@ -1,0 +1,37 @@
+<svg width="480" height="40" viewBox="0 0 480 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fadeL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cfcac2" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#cfcac2" stop-opacity="0.9"/>
+      <stop offset="85%" stop-color="#cfcac2" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#cfcac2" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- main stroke body -->
+  <path d="M 20,20
+           C 60,12 100,26 150,17
+           C 210,7 260,24 320,15
+           C 370,8 410,22 460,18"
+        fill="none"
+        stroke="url(#fadeL)"
+        stroke-width="5"
+        stroke-linecap="round"/>
+
+  <!-- secondary thinner pass, slightly offset, for dry-brush texture -->
+  <path d="M 30,23
+           C 80,17 130,25 180,19
+           C 240,12 290,23 340,17
+           C 390,13 420,20 450,17"
+        fill="none"
+        stroke="url(#fadeL)"
+        stroke-width="1.6"
+        stroke-opacity="0.55"
+        stroke-linecap="round"/>
+
+  <!-- ink spatter accents -->
+  <circle cx="24" cy="24" r="1.4" fill="#cfcac2" opacity="0.5"/>
+  <circle cx="456" cy="16" r="1.1" fill="#cfcac2" opacity="0.4"/>
+  <circle cx="240" cy="9" r="0.8" fill="#cfcac2" opacity="0.35"/>
+</svg>
+

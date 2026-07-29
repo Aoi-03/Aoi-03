@@ -1,0 +1,15 @@
+<svg width="34" height="34" viewBox="0 0 34 34" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="crestGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0d9a8"/>
+      <stop offset="100%" stop-color="#b8892e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- square seal frame, matches header-banner's corner mark -->
+  <rect x="1.5" y="1.5" width="31" height="31" fill="none" stroke="url(#crestGold)" stroke-width="1.6"/>
+  <rect x="4.5" y="4.5" width="25" height="25" fill="none" stroke="#6b1010" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- 極 (extreme / pole star) — pairs thematically with 星 in the banner -->
+  <text x="17" y="23" text-anchor="middle" font-family="serif" font-size="17" fill="#D4AF6A">極</text>
+</svg>

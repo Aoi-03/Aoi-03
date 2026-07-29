@@ -1,0 +1,17 @@
+<svg width="120" height="14" viewBox="0 0 120 14" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="brushGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b8892e" stop-opacity="0"/>
+      <stop offset="15%" stop-color="#d4af6a" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#f0d9a8" stop-opacity="1"/>
+      <stop offset="85%" stop-color="#d4af6a" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#b8892e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- tapered brushstroke, thicker mid, thin at ends -->
+  <path d="M 4,9 Q 30,5 60,6 Q 90,7 116,9"
+        fill="none" stroke="url(#brushGold)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 4,9 Q 30,5 60,6 Q 90,7 116,9"
+        fill="none" stroke="url(#brushGold)" stroke-width="1" stroke-linecap="round" opacity="0.5" transform="translate(0,2.5)"/>
+</svg>

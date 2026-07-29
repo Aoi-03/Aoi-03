@@ -1,0 +1,23 @@
+<svg width="600" height="50" viewBox="0 0 600 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ruleGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b8892e" stop-opacity="0"/>
+      <stop offset="12%" stop-color="#d4af6a" stop-opacity="1"/>
+      <stop offset="50%" stop-color="#f0d9a8" stop-opacity="1"/>
+      <stop offset="88%" stop-color="#d4af6a" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#b8892e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- main rule -->
+  <line x1="20" y1="25" x2="580" y2="25" stroke="url(#ruleGold)" stroke-width="1.5"/>
+
+  <!-- center diamond seal -->
+  <rect x="293" y="18" width="14" height="14" fill="#0a0806" stroke="#d4af6a" stroke-width="1.5"
+        transform="rotate(45 300 25)"/>
+  <circle cx="300" cy="25" r="2.5" fill="#6b1010"/>
+
+  <!-- flanking ticks -->
+  <line x1="260" y1="20" x2="260" y2="30" stroke="#8c6d3f" stroke-width="1"/>
+  <line x1="340" y1="20" x2="340" y2="30" stroke="#8c6d3f" stroke-width="1"/>
+</svg>

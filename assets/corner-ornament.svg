@@ -1,0 +1,21 @@
+<svg width="90" height="90" viewBox="0 0 90 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldFade" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0d9a8"/>
+      <stop offset="100%" stop-color="#b8892e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- corner bracket, temple-gate inspired -->
+  <path d="M 5,48 L 5,14 Q 5,5 14,5 L 48,5"
+        fill="none" stroke="url(#goldFade)" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- inner accent stroke -->
+  <path d="M 15,48 L 15,20 Q 15,15 20,15 L 48,15"
+        fill="none" stroke="#d4af6a" stroke-width="1.5" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- seal mark -->
+  <circle cx="17" cy="17" r="5" fill="#0a0806" stroke="#e8524a" stroke-width="2"/>
+  <circle cx="17" cy="17" r="1.6" fill="#e8524a"/>
+</svg>
+

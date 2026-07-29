@@ -1,0 +1,19 @@
+<svg width="28" height="26" viewBox="0 0 28 26" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="toriiGold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f0d9a8"/>
+      <stop offset="100%" stop-color="#b8892e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- top lintel, slight upward curve -->
+  <path d="M 2,6 Q 14,2 26,6" fill="none" stroke="url(#toriiGold)" stroke-width="2.2" stroke-linecap="round"/>
+  <line x1="5" y1="9.5" x2="23" y2="9.5" stroke="url(#toriiGold)" stroke-width="1.4" opacity="0.85"/>
+
+  <!-- pillars -->
+  <line x1="8" y1="9" x2="8" y2="24" stroke="#8c6d3f" stroke-width="2" stroke-linecap="round"/>
+  <line x1="20" y1="9" x2="20" y2="24" stroke="#8c6d3f" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- center seal dot -->
+  <circle cx="14" cy="7.6" r="1.6" fill="#6b1010"/>
+</svg>
