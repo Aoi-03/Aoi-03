@@ -172,7 +172,7 @@ __
 <!-- This completely breaks out of the row layout -->
 <br clear="both"/>
 <div align="left">
-  <a href="https://ayakashi.cc" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://ayakashi.cc/" target="_blank" style="text-decoration: none; color: inherit;">
     <h2>Checkout our Website:</h2>
     <img align="center" width="100%" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/ayakashi-web.gif" />
   </a>
