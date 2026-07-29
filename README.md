@@ -116,7 +116,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 <!--Wakatime & Spotify Row-->
 <table width="100%" border="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="40%" align="left" style="border: none; padding: 0;">
+    <td width="50%" align="left" style="border: none; padding: 0;">
       <a href="https://wakatime.com/@alan">
         <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&langs_count=6&display_format=percent&theme=midnight-purple" alt="GitHub Stats">
       </a>
@@ -145,7 +145,7 @@ How to reach me (Use my X: @Abhi_Aoi)
           <td width="80%" valign="top" style="border: none;"> 
             <img src="assets/crest-mark.svg" width="20"/> XEN-LABS <br/> 
             <img src="assets/brush-underline.svg" width="76"/><br/> 
-            A two-person studio building anime-flavored bot & web <br/> experiences, economy systems, card-collecting mechanics, <br/> live companion chat. Everything currently orbits **Ayakashi**. <br/> 
+            A two-person studio building anime-flavore <br/> bot & web experiences, economy systems, card-collecting <br/> mechanics, live companion chat. Everything currently orbits Ayakashi. <br/> 
             <!-- Fixed: Using pure HTML link for perfect compatibility inside tables -->
             <sub><a href="https://github.com/xen-labs"><code>@xen-labs</code></a> · Kolkata, India</sub> 
           </td> 
