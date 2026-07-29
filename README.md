@@ -70,7 +70,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 <!-- <Socials/> -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
 <h2>Socials:</h2>
       
 [![Discord](https://img.shields.io/badge/Discord-4b0082.svg?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/aoi_v.)
@@ -105,7 +105,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 ![Docker](https://img.shields.io/badge/Docker-e6e6fa.svg?style=flat-square&logo=docker&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-ffffff.svg?style=flat-square&logo=Arduino&logoColor=black)
     </td>
-    <td width="35%" valign="top" align="Left">
+    <td width="40%" valign="top" align="Left">
 <h2>Discord Activity:</h2>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1101336432599113738?bg=1a0533&animated=true&showDisplayName=true&idleMessage=Just%20AFK%20ngl%20to%20u...)](https://discord.com/users/1101336432599113738)
@@ -145,7 +145,7 @@ How to reach me (Use my X: @Abhi_Aoi)
           <td width="80%" valign="top" style="border: none;"> 
             <img src="assets/crest-mark.svg" width="20"/> XEN-LABS <br/> 
             <img src="assets/brush-underline.svg" width="76"/><br/> 
-            A two-person studio building anime-flavore <br/> bot & web experiences, economy systems, card-collecting <br/> mechanics, live companion chat. Everything currently orbits Ayakashi. <br/> 
+            A two-person studio building anime-flavore <br/> bot & web experiences, economy systems, <br/> card-collecting mechanics, live companion chat. <br/> Everything currently orbits Ayakashi. <br/> 
             <!-- Fixed: Using pure HTML link for perfect compatibility inside tables -->
             <sub><a href="https://github.com/xen-labs"><code>@xen-labs</code></a> · Kolkata, India</sub> 
           </td> 
