@@ -116,7 +116,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 <!--Wakatime & Spotify Row-->
 <table width="100%" border="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="30%" align="left" style="border: none; padding: 0;">
+    <td width="40%" align="left" style="border: none; padding: 0;">
       <a href="https://wakatime.com/@alan">
         <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&langs_count=6&display_format=percent&theme=midnight-purple" alt="GitHub Stats">
       </a>
