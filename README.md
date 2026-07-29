@@ -116,7 +116,7 @@ How to reach me (Use my X: @Abhi_Aoi)
 <!--Wakatime & Spotify Row-->
 <table width="100%" border="0" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="50%" align="left" style="border: none; padding: 0;">
+    <td width="30%" align="left" style="border: none; padding: 0;">
       <a href="https://wakatime.com/@alan">
         <img src="https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&langs_count=6&display_format=percent&theme=midnight-purple" alt="GitHub Stats">
       </a>
@@ -131,22 +131,26 @@ How to reach me (Use my X: @Abhi_Aoi)
 
 
 ## My Organization and Projects: <a name="xen-labs"></a> 
-
-<table width="100%" border="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <!-- LEFT SIDE: Your Organization Info -->
-    <td width="50%" valign="top" style="border: none; padding-right: 20px;">
-      <table width="100%" border="0" style="border: none;">
-        <tr style="border: none;">
-          <td width="16%" align="center" valign="middle" style="border: none;">
-            <img src="assets/ayakashi-mark.svg" width="100" alt="xen-labs"/>
-          </td>
-          <td width="84%" valign="top" style="border: none;">
-            <img src="assets/crest-mark.svg" width="20"/> **xen-labs**<br/><img src="assets/brush-underline.svg" width="76"/> A two-person studio building anime-flavored bot & web experiences — economy systems, card-collecting mechanics, live companion chat. everything currently orbits **Ayakashi**. 
-          <sub>[`@xen-labs`](https://github.com/xen-labs) · Kolkata, India</sub>
-          </td>
-        </tr>
-      </table>
+<a name="xen-labs"></a> 
+<table width="100%" border="0" style="border: none; border-collapse: collapse;"> 
+  <tr style="border: none;"> 
+    <!-- LEFT SIDE: Takes up exactly 50% of the total row --> 
+    <td width="50%" valign="top" style="border: none; padding-right: 20px;"> 
+      <!-- Inner table now fills 100% of its 50% container --> 
+      <table width="100%" border="0" style="border: none;"> 
+        <tr style="border: none;"> 
+          <td width="20%" align="center" valign="middle" style="border: none;"> 
+            <img src="assets/ayakashi-mark.svg" width="100" alt="xen-labs"/> 
+          </td> 
+          <td width="80%" valign="top" style="border: none;"> 
+            <img src="assets/crest-mark.svg" width="20"/> XEN-LABS <br/> 
+            <img src="assets/brush-underline.svg" width="76"/><br/> 
+            A two-person studio building anime-flavored bot & web <br/> experiences, economy systems, card-collecting mechanics, <br/> live companion chat. Everything currently orbits **Ayakashi**. <br/> 
+            <!-- Fixed: Using pure HTML link for perfect compatibility inside tables -->
+            <sub><a href="https://github.com/xen-labs"><code>@xen-labs</code></a> · Kolkata, India</sub> 
+          </td> 
+        </tr> 
+      </table> 
     </td>
     <!-- RIGHT SIDE: Your Code Snippet Box -->
     <td width="50%" valign="top" style="border: none;">
@@ -167,10 +171,11 @@ __
 
 <!-- This completely breaks out of the row layout -->
 <br clear="both"/>
-
-<div align="left"> 
-  <h2>Checkout our Website</h2> 
-  <img align="center" width="100%" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/ayakashi-web.gif" />
+<div align="left">
+  <a href="https://ayakashi.cc" target="_blank" style="text-decoration: none; color: inherit;">
+    <h2>Checkout our Website:</h2>
+    <img align="center" width="100%" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/ayakashi-web.gif" />
+  </a>
 </div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
