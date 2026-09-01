@@ -9,7 +9,7 @@
   </a>
 </div>
 
-## About Me:
+## Ab
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/Aoi-03/Aoi-03/main/gifs/kaneki3.gif" />
 
