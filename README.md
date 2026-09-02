@@ -17,12 +17,12 @@
 ┌──────────────────────────────┐
 │   ~ Who am I                 │
 └──────────────────────────────┘
-Hi, I’m the Eyepatch.
+Hi, I’m Eyepatch.
 I’m currently a B-TECH Engineering student on ECE.
 Looking for a job and a happy life.
-How to reach me (Use my X: @Abhi_Aoi).
-  timezone  →  awake when I shouldn't be.
-  currently →  building Project Ifa.
+How to reach me (Use my X: @Abhi_Aoi)
+  timezone  →  IST
+  currently →  building Project Dim Star.
   interests →  Writing, Sketching, Gaming etc...
 ```
 <div align="center">
